@@ -1,0 +1,56 @@
+
+/*restet css*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+/*regole generali*/
+
+header{
+    height: 70px;
+    background-color: white;
+    padding-left: 20px;
+    margin-bottom: 30px;
+    
+}
+
+body{
+    background-color: rgb(222, 220, 220);
+}
+.container{
+    width: 50%;
+    margin: auto;
+    background-color: white;
+}
+
+ /*logo*/
+ #logo{
+     height: 50px;
+     vertical-align: middle;
+ }
+    /*title*/
+    h1{
+        display: inline;
+        font-size: 40px;
+        vertical-align: middle;
+    
+    }
+    /*prima sezione*/
+    .first{
+        background-color: white;
+        border-radius: 5px;
+    }
+    .button{
+        padding: 20px 30px;
+        border-bottom: 2px solid rgb(222, 220, 220);
+    }
+
+
+
+    .second{
+        border-bottom: 5px solid rgb(222, 220, 220);
+        padding: 20px 30px;
+    }
