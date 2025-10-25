@@ -25,6 +25,9 @@ body{
     margin: auto;
     background-color: white;
 }
+ul{
+    list-style-type: none;
+}
 
  /*logo*/
  #logo{
